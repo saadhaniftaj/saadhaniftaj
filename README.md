@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I’m Saad<br>	•	🎓 Data Science student at Ghulam Ishaq Khan Institute<br>	•	☁️ Cloud & AI Enthusiast with expertise in **AWS & Azure**<br>	•	📚 Proficient in AWS Solutions Architecture, Cloud Practitioner, and Azure AI Engineering (AI-102), having completed extensive coursework<br>	•	🤖 Passionate about AI-driven cloud solutions & distributed computing<br>	•	🛠️ Building AI-integrated applications with Microsoft & AWS services<br>	•	🚀 Exploring Agentic AI, automation, and cloud-native architectures
+Hi there! 👋 I’m **Saad**<br>	•	🎓 Data Science student at Ghulam Ishaq Khan Institute<br>	•	☁️ Cloud & AI Enthusiast with expertise in **AWS & Azure**<br>	•	📚 Proficient in **AWS Solutions Architecture, Cloud Practitioner, and Azure AI Engineering (AI-102)**, having completed extensive coursework<br>	•	🤖 Passionate about AI-driven cloud solutions & distributed computing<br>	•	🛠️ Building AI-integrated applications with Microsoft & AWS services<br>	•	🚀 Exploring Agentic AI, automation, and cloud-native architectures
 
 
 ## 🌐 Socials:
